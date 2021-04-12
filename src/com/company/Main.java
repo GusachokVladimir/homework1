@@ -22,7 +22,7 @@ public class Main {
         System.out.println("grade пользователя " + admin2 + " равен " + grade2 );
 
         // Задание 3
-        double x = 6;
+        double x = 5;
         double y = 7;
 
         double z = x / y;
